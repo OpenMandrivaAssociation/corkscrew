@@ -1,12 +1,12 @@
 %define name corkscrew
 %define version 2.0
-%define release 5mdk
+%define rel     6
 %define patchSet0 20060404
 
 Name: %{name}
 Summary: Corkscrew is a tool for tunneling SSH through HTTP proxies
 Version: %{version}
-Release: %{release}
+Release: %mkrel %{rel}
 License: GPL
 Url: http://www.agroman.net/%{name}
 Group: Networking/Other
