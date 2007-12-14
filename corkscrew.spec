@@ -34,7 +34,7 @@ rm configure # to prevent aclocal's ac-wrapper from using the old autoconf
 aclocal-1.9 --force
 autoheader-2.5x
 automake-1.9 -a --add-missing --force-missing --gnu
-autoconf-2.5x
+autoconf
 
 %configure
 %make
