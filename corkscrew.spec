@@ -14,7 +14,6 @@ Source0: http://www.agroman.net/%{name}/%{name}-%{version}.tar.bz2
 Patch0: %{name}-%{version}.%{patchSet0}-manpage.patch.bz2
 Patch1: %{name}-%{version}.%{patchSet0}-firstpacket.patch.bz2
 
-BuildRoot: %{_tmppath}/%{name}-buildroot
 
 
 
