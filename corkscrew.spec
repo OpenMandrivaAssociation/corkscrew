@@ -31,9 +31,9 @@ perl -pi -e 's|/usr/local/bin|%{_bindir}|g;' corkscrew.1 README
 
 %build
 rm configure # to prevent aclocal's ac-wrapper from using the old autoconf 
-aclocal-1.9 --force
-autoheader-2.5x
-automake-1.9 -a --add-missing --force-missing --gnu
+aclocal --force
+autoheade
+automake -a --add-missing --force-missing --gnu
 autoconf
 
 %configure
