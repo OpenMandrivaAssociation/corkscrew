@@ -4,7 +4,7 @@
 %define patchSet0 20060404
 
 Name: %{name}
-Summary: Corkscrew is a tool for tunneling SSH through HTTP proxies
+Summary: Tool for tunneling SSH through HTTP proxies
 Version: %{version}
 Release: %mkrel %{rel}
 License: GPL
