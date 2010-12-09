@@ -1,6 +1,6 @@
 %define name corkscrew
 %define version 2.0
-%define rel     7
+%define rel     8
 %define patchSet0 20060404
 
 Name: %{name}
