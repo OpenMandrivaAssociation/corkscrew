@@ -1,2 +1,4 @@
 sources:
-  "corkscrew-2.0.tar.bz2:"	42f3be62196f1dbdfcbc371aee20d073e24444e3
+  "corkscrew-2.0.20060404-firstpacket.patch.bz2": a34cfa8a7c9a1ccd4a25c3589d36af3defec318c
+  "corkscrew-2.0.20060404-manpage.patch.bz2": e773d9222137686e0c5fceafef8364644203bd3b
+  "corkscrew-2.0.tar.bz2": 42f3be62196f1dbdfcbc371aee20d073e24444e3
