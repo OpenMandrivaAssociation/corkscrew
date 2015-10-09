@@ -1,12 +1,9 @@
-%define name corkscrew
-%define version 2.0
-%define rel     8
 %define patchSet0 20060404
 
-Name: %{name}
+Name: corkscrew
 Summary: Tool for tunneling SSH through HTTP proxies
-Version: %{version}
-Release: %mkrel %{rel}
+Version: 2.0
+Release: 8
 License: GPL
 Url: http://www.agroman.net/%{name}
 Group: Networking/Other
