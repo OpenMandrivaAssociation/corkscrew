@@ -5,7 +5,7 @@ Summary: Tool for tunneling SSH through HTTP proxies
 Version: 2.0
 Release: 8
 License: GPL
-Url: http://www.agroman.net/%{name}
+Url: https://www.agroman.net/%{name}
 Group: Networking/Other
 Source0: http://www.agroman.net/%{name}/%{name}-%{version}.tar.bz2
 Patch0: %{name}-%{version}.%{patchSet0}-manpage.patch.bz2
